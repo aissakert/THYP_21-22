@@ -22,3 +22,4 @@
 * https://github.com/aissakert/THYP_21-22/tree/main/ex1
 
 ## lien vers le projet
+* https://github.com/aissakert/THYP_21-22/blob/main/projet.md
