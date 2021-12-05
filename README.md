@@ -13,6 +13,12 @@
 
 * http://localhost/omeka/api/items/8
 
+* http://localhost/omeka/api/resource_templates/4:items
+
+* http://localhost/omeka/api/resource_templates/5:items
+
+* http://localhost/omeka/api/resource_templates/6:items
+
 ## lien vers le vocabulaire
 
 * https://github.com/aissakert/THYP_21-22/tree/main/onto
